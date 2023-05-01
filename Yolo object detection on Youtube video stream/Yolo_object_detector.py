@@ -12,7 +12,7 @@ cap = cv2.VideoCapture(best.url)
 model = YOLO("yolov3-tiny.pt")
 starting_time = time.time()
 frame_id = 0
-colors = np.random.uniform(0, 255, size=(70, 3))
+colors = np.random.uniform(0, 255, size=(255, 3))
 
 while True:
     ret, frame = cap.read()
