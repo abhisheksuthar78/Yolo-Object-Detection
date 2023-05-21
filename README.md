@@ -6,7 +6,7 @@ This code demonstrates object detection using the YOLO (You Only Look Once) algo
 ## Prerequisites
 To run this code, ensure that you have the following prerequisites installed:
 
-Python 3.x
+***Python 3.x*** <br>
 ***OpenCV*** (pip install opencv-python) <br>
 ***NumPy*** (pip install numpy) <br>
 ***Pafy*** (pip install pafy) <br>
