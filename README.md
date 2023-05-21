@@ -7,9 +7,9 @@ This code demonstrates object detection using the YOLO (You Only Look Once) algo
 To run this code, ensure that you have the following prerequisites installed:
 
 Python 3.x
-OpenCV (pip install opencv-python) <br>
-NumPy (pip install numpy) <br>
-Pafy (pip install pafy) <br>
-Ultralytics (pip install ultralytics) <br>
-Ultralytics YOLO (pip install -U yolov5) <br>
+***OpenCV*** (pip install opencv-python) <br>
+***NumPy*** (pip install numpy) <br>
+***Pafy*** (pip install pafy) <br>
+***Ultralytics*** (pip install ultralytics) <br>
+***Ultralytics YOLO*** (pip install -U yolov5) <br>
 Additionally, make sure you have a working internet connection to access the YouTube video.
